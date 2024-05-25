@@ -1,3 +1,7 @@
+<?php
+include ("php/query.php");
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -55,15 +59,16 @@
                 <a href="#home" class="nav-item nav-link active">Home</a>
                 <a href="#about" class="nav-item nav-link">About</a>
                 <a href="#skill" class="nav-item nav-link">Skills</a>
-                <a href="#service" class="nav-item nav-link">Services</a>
+                
             </div>
             <a href="index.html" class="navbar-brand bg-secondary py-3 px-4 mx-3 d-none d-lg-block">
                 <h1 class="text-primary fw-bold m-0">MONIS FAROOQ AYUBI</h1>
             </a>
             <div class="navbar-nav me-auto py-0">
+                <a href="#service" class="nav-item nav-link">Services</a>
                 <a href="#project" class="nav-item nav-link">Projects</a>
                 <!-- <a href="#team" class="nav-item nav-link">Team</a> -->
-                <a href="#testimonial" class="nav-item nav-link">Testimonial</a>
+                <!-- <a href="#testimonial" class="nav-item nav-link">Testimonial</a> -->
                 <a href="#contact" class="nav-item nav-link">Contact</a>
             </div>
         </div>
@@ -81,6 +86,9 @@
                     <h2 class="typed-text-output d-inline"></h2>
                     <div class="typed-text d-none">Web Designer, Web Developer, Front End Developer, Full Stack Developer, Shopif Developer</div>
                     <div class="d-flex align-items-center pt-5">
+                        <a href="https://www.upwork.com/freelancers/~018c1e150655e701e7" target="_blank">
+                            <img class="img-fluid" src="img/upwork.png" alt="" style="width:200px;">
+                        </a>
                     <!--     <a href="" class="btn btn-primary py-3 px-4 me-5">Download CV</a>
                         <button type="button" class="btn-play" data-bs-toggle="modal"
                     data-src="https://www.youtube.com/embed/DWRcNpR6Kdc" data-bs-target="#videoModal">
@@ -90,7 +98,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <img class="img-fluid" src="img/profile.png" alt="">
+                    <img class="img-fluid" src="img/monis.png" alt="" style="width:600px;">
                 </div>
             </div>
         </div>

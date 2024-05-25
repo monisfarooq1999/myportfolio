@@ -24,16 +24,16 @@
                                     <h6 class="font-weight-bold">95%</h6>
                                 </div>
                                 <div class="progress">
-                                    <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                                    <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
                                 </div>
                             </div>
                             <div class="skill mb-4">
                                 <div class="d-flex justify-content-between">
                                     <h6 class="font-weight-bold">PHP</h6>
-                                    <h6 class="font-weight-bold">80%</h6>
+                                    <h6 class="font-weight-bold">70%</h6>
                                 </div>
                                 <div class="progress">
-                                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
                                 </div>
                             </div>
                         </div>
@@ -50,10 +50,10 @@
                             <div class="skill mb-4">
                                 <div class="d-flex justify-content-between">
                                     <h6 class="font-weight-bold">Shopify</h6>
-                                    <h6 class="font-weight-bold">100%</h6>
+                                    <h6 class="font-weight-bold">80%</h6>
                                 </div>
                                 <div class="progress">
-                                    <div class="progress-bar bg-dark" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+                                    <div class="progress-bar bg-dark" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
                                 </div>
                             </div>
                             <div class="skill mb-4">
@@ -62,7 +62,7 @@
                                     <h6 class="font-weight-bold">100%</h6>
                                 </div>
                                 <div class="progress">
-                                    <div class="progress-bar bg-info" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                                    <div class="progress-bar bg-info" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
                                 </div>
                             </div>
                         </div>
@@ -83,20 +83,20 @@
                                 <div class="col-sm-6">
                                     <h5>WordPress Developer</h5>
                                     <hr class="text-primary my-2">
-                                    <p class="text-primary mb-1">2018 - 2020</p>
+                                    <p class="text-primary mb-1">2015 - 2017</p>
                                     <h6 class="mb-0">TechChef Inc</h6>
                                 </div>
                                 <div class="col-sm-6">
-                                    <h5>Full Stack Feveloper</h5>
+                                    <h5>Frontend Lead</h5>
                                     <hr class="text-primary my-2">
                                     <p class="text-primary mb-1">2020 - Current</p>
                                     <h6 class="mb-0">Trigon Solutions</h6>
                                 </div>
                                 <div class="col-sm-6">
-                                    <h5>Frontend Designer</h5>
+                                    <h5>Frontend Developer</h5>
                                     <hr class="text-primary my-2">
-                                    <p class="text-primary mb-1">2017 - 2018</p>
-                                    <h6 class="mb-0">Link Optimze</h6>
+                                    <p class="text-primary mb-1">2017 - 2020</p>
+                                    <h6 class="mb-0">D3xter Inc</h6>
                                 </div>
                             
                             </div>
@@ -104,28 +104,16 @@
                         <div id="tab-2" class="tab-pane fade show p-0">
                             <div class="row gy-5 gx-4">
                                 <div class="col-sm-6">
-                                    <h5>UI Design Course</h5>
+                                    <h5>F.S.C</h5>
                                     <hr class="text-primary my-2">
-                                    <p class="text-primary mb-1">2000 - 2045</p>
-                                    <h6 class="mb-0">Cambridge University</h6>
+                                    <p class="text-primary mb-1">2016-2018</p>
+                                    <h6 class="mb-0">D.J. Sindh Govt. Science College</h6>
                                 </div>
                                 <div class="col-sm-6">
-                                    <h5>IOS Development</h5>
+                                    <h5>Matriculation</h5>
                                     <hr class="text-primary my-2">
-                                    <p class="text-primary mb-1">2000 - 2045</p>
-                                    <h6 class="mb-0">Cambridge University</h6>
-                                </div>
-                                <div class="col-sm-6">
-                                    <h5>Web Design</h5>
-                                    <hr class="text-primary my-2">
-                                    <p class="text-primary mb-1">2000 - 2045</p>
-                                    <h6 class="mb-0">Cambridge University</h6>
-                                </div>
-                                <div class="col-sm-6">
-                                    <h5>Apps Design</h5>
-                                    <hr class="text-primary my-2">
-                                    <p class="text-primary mb-1">2000 - 2045</p>
-                                    <h6 class="mb-0">Cambridge University</h6>
+                                    <p class="text-primary mb-1">2015-16</p>
+                                    <h6 class="mb-0">The Crescent Academy</h6>
                                 </div>
                             </div>
                         </div>
